@@ -16,3 +16,4 @@ class Solution:
             rst[num] = i
         return rst
 )
+asdasd
