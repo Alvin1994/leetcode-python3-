@@ -15,4 +15,4 @@ class Solution:
         for i, num in enumerate(nums):
             rst[num] = i
         return rst
-)
+        
