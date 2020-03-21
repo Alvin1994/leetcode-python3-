@@ -21,4 +21,3 @@ class Solution:
                 l2.next = ListNode(0)
             rst.next = self.addTwoNumbers(l1.next,l2.next,c)
         return rst
-        
