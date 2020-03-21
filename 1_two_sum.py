@@ -9,7 +9,7 @@ class Solution:
                 return [i, nums_dict[value]]
         return None
         
-        
+    @staticmethod    
     def initial_dict(nums):
         rst = dict()
         for i, num in enumerate(nums):
